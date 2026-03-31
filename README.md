@@ -2,12 +2,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=SefaMertAslan&color=0e75b6&style=flat" alt="profil görüntülenme" />
 
-Türkiye'de yaşayan, web, mobil ve yapay zeka alanlarında kendini geliştiren bir yazılım geliştiriciyim.
+Tokat Gaziosmanpaşa Üniversitesi **Bilgisayar Mühendisliği** 3. sınıf öğrencisiyim. Web, mobil ve yapay zeka alanlarında kendimi geliştiriyorum.
 
-- 🔭 Şu an üzerinde çalıştıklarım: **Bilgisayarlı Görü** ve **Flutter**
-- 🌱 Öğrendiklerim: **ASP.NET Core, Flutter/Dart, Python**
-- 💡 İlgi alanlarım: Web Geliştirme, Mobil Uygulama, Yapay Zeka
-- 📫 Bana ulaş: **[LinkedIn](https://www.linkedin.com/in/sefa-mert-aslan-b468733bb/)** · **[Gmail](mailto:sefamertaslan03@gmail.com)**
+- 🎓 &nbsp;**Tokat Gaziosmanpaşa Üniversitesi** — Bilgisayar Mühendisliği (3. Sınıf)
+- 🔭 &nbsp;Şu an üzerinde çalıştıklarım: **Hastalıklı Ses Sınıflandırması**, **Gazete Manşetlerinden Gündem Analizi** 
+- 🌱 &nbsp;Öğrendiklerim: **ASP.NET Core, Flutter/Dart, Python, C#**
+- 💡 &nbsp;İlgi alanlarım: Web Geliştirme, Mobil Uygulama, Yapay Zeka
+- 📫 &nbsp;Bana ulaş: **[LinkedIn](https://www.linkedin.com/in/sefa-mert-aslan-b468733bb/)** · **[Gmail](mailto:sefamertaslan03@gmail.com)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefa-mert-aslan-b468733bb/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefamertaslan03@gmail.com)
@@ -40,15 +41,6 @@ Türkiye'de yaşayan, web, mobil ve yapay zeka alanlarında kendini geliştiren 
 
 ---
 
-## 📸 Hakkımda
-
-<p align="center">
-  <img src="./assets/github1.jpeg" alt="Sefa Mert" width="300" style="border-radius: 12px; margin: 8px;"/>
-  <img src="./assets/github2.jpeg" alt="Sefa Mert" width="300" style="border-radius: 12px; margin: 8px;"/>
-</p>
-
----
-
 ## 📂 Öne Çıkan Projeler
 
 | Proje | Açıklama | Teknoloji |
@@ -61,5 +53,5 @@ Türkiye'de yaşayan, web, mobil ve yapay zeka alanlarında kendini geliştiren 
 ---
 
 <p align="center">
-  <i>Profilimi ziyaret ettiğin için teşekkürler!</i>
+  <i>Profilimi ziyaret ettiğin için teşekkürler! 🙏</i>
 </p>
