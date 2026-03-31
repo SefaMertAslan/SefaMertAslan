@@ -7,7 +7,10 @@ Türkiye'de yaşayan, web, mobil ve yapay zeka alanlarında kendini geliştiren 
 - 🔭 Şu an üzerinde çalıştıklarım: **Bilgisayarlı Görü** ve **Flutter**
 - 🌱 Öğrendiklerim: **ASP.NET Core, Flutter/Dart, Python**
 - 💡 İlgi alanlarım: Web Geliştirme, Mobil Uygulama, Yapay Zeka
-- 📫 Bana ulaş: **[GitHub](https://github.com/SefaMertAslan)**
+- 📫 Bana ulaş: **[LinkedIn](https://www.linkedin.com/in/sefa-mert-aslan-b468733bb/)** · **[Gmail](mailto:sefamertaslan03@gmail.com)**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sefa-mert-aslan-b468733bb/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sefamertaslan03@gmail.com)
 
 ---
 
@@ -33,6 +36,15 @@ Türkiye'de yaşayan, web, mobil ve yapay zeka alanlarında kendini geliştiren 
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SefaMertAslan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📸 Hakkımda
+
+<p align="center">
+  <img src="./assets/github1.jpeg" alt="Sefa Mert" width="300" style="border-radius: 12px; margin: 8px;"/>
+  <img src="./assets/github2.jpeg" alt="Sefa Mert" width="300" style="border-radius: 12px; margin: 8px;"/>
 </p>
 
 ---
