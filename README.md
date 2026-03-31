@@ -28,18 +28,6 @@ Tokat Gaziosmanpaşa Üniversitesi **Bilgisayar Mühendisliği** 3. sınıf öğ
 
 ---
 
-## 📊 GitHub İstatistikleri
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SefaMertAslan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SefaMertAslan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SefaMertAslan&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 ## 📂 Öne Çıkan Projeler
 
